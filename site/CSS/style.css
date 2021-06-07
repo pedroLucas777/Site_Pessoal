@@ -1,0 +1,19 @@
+html {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(248, 117, 9);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin: 0%;
+    background-color: rgb(255, 255, 255);
+}
+
+#foto2 {
+    margin: 0% auto;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+
